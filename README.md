@@ -22,9 +22,19 @@
 </div>
 
 ##
- 
+
+> Status: In progress
+
 - 🌱 I’m currently learning to become a programmer
 - 👯 I’m looking to collaborate on a backend team
 - 🤔 I’m looking for help with estágio
 - 📫 How to reach me: joaopedrobarcelllosmoura@gmail.com ou meu whatsapp (21)98742-1561
 
+##
+
+<meta charset = "UTF-8">
+<h2>Objetivos</h2>
+ 
+ + Procuro um estágio como programador Back-and <br>
+ + Aprimorar meus conhecimentos na área de programação com o networking <br>
+ + Por em tratica o conhecimento que adquiti no curso de programação que fiz
