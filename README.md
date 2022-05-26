@@ -38,3 +38,14 @@
  + Procuro um estágio como programador Back-and <br>
  + Aprimorar meus conhecimentos na área de programação com o networking <br>
  + Por em tratica o conhecimento que adquiti no curso de programação que fiz
+
+## Courses
+>  ### Alura
+>  + Programming Logic 1
+>  + Programming Logic 2
+>  + Git Hub
+
+<br> 
+
+>  ### DIO
+>  + Computational thinking
