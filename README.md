@@ -8,9 +8,19 @@
 
 ##
  <div style="display: inline_block"><br>
+  <img align ="center" alt = "Joao-C-Linguage" height = "30" width src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align ="center" alt = "Joao-Java-Linguage" height = "30" width src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align ="center" alt = "Joao-Vs" height = "30" width src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />            
+  
+  
+    
+  <img align ="center" alt = "Joao-Vs" height = "30" width src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align ="center" alt = "Joao-git" height = "30" width src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+
+  <img align ="center" alt = "Joao-SO-Linux" height = "30" width src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+  <img align ="center" alt = "Joao-Spring" height = "30" width src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" >
+    
  </div>
     
 <div> 
@@ -25,27 +35,41 @@
 
 > Status: In progress
 
-- 🌱 I’m currently learning to become a programmer
+- 🌱 Developing a programmer
 - 👯 I’m looking to collaborate on a backend team
+- 💟 Passionate about programming
 - 🤔 I’m looking for help with estágio
 - 📫 How to reach me: joaopedrobarcelllosmoura@gmail.com ou meu whatsapp (21)98742-1561
 
 ##
 
 <meta charset = "UTF-8">
-<h2>Objetivos</h2>
+<h2>Goals</h2>
  
- + Procuro um estágio como programador Back-and <br>
- + Aprimorar meus conhecimentos na área de programação com o networking <br>
- + Por em tratica o conhecimento que adquiti no curso de programação que fiz
+ + I'm looking for a Junior Internship/Job Opportunity as a Back-and Programmer <br>
+ + Improve my knowledge in the programming area with networking <br>
+ + Put into practice the knowledge I mine from my studies <br>
+ + Work on Software Development Projects <br>
 
 ## Courses
 >  ### Alura
 >  + Programming Logic 1
 >  + Programming Logic 2
->  + Git Hub
+>  + Git e GitHub Controle Control and share your code
+>  + Database Modeling: Entities, Relationships, and Attributes
 
 <br> 
 
 >  ### DIO
 >  + Computational thinking
+>  + Code versioning with Git and GitHub
+>  + Working in agile teams
+>  + Introduction to Modern Software Development
+>  + ChatGPT for Devs
+
+<br>
+
+> ### College
+> + Status: 3º Período <br>
+> + course : Information Systems <br>
+> + Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/NF) <br>
