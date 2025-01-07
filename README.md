@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/jpmoura28/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaopedrobarcelllosmoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaopedrobmoura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.joaopedrobmoura.github.io" target="_blank"><img src="https://img.shields.io/badge/-My personal web site-%230077B5?style=for-the-badge&logoColor=white" target="_blank"></a> 
+  <a href="https://joaopedrobmoura.github.io/" target="_blank"><img src="https://img.shields.io/badge/-My personal web site-%230077B5?style=for-the-badge&logoColor=white" target="_blank"></a> 
  
 </div>
 
